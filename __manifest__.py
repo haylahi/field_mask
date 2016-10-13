@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-
-
 {
     'name': 'Char Input Field Mask',
     'version': '1.0',
@@ -22,15 +20,13 @@ This module adds Char Input Field Mask - Widget:
     link: https://github.com/RobinHerbots/jquery.inputmask
 
 """,
-    'author': 'Viktor Vorobjov',
+    'author': 'Manexware S.A.',
     'depends': [],
-    'website': 'http//straga.github.io',
+    'website': 'http//manexware.com',
     'data': [
         'views/templates.xml',
-
     ],
     'qweb':[
-
         'static/src/xml/mask.xml',
     ],
     'installable': True,
